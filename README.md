@@ -34,6 +34,4 @@ public class Main {
 print("Hello World!");
 ```
 
-我的博客:[GLGZS](https://blog.glgzs.com)
-
 ![GAVgutu](https://avatars.githubusercontent.com/u/101438028?v=4)
